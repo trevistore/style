@@ -1,0 +1,60 @@
+/*****  Normal *******/
+section {
+    display: block;
+}
+
+li, p, ul {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+/*****  Section *******/
+.specs-con .section {
+    padding-top: 3.77083rem;
+    padding-left: 1.85417rem;
+    text-align: left;
+}
+
+.specs-con .section {
+    padding-top: 3.77083rem;
+    padding-left: 1.85417rem;
+    text-align: left;
+}
+
+.specs-con .section .line {
+    width: 18.75rem;
+    height: 1px;
+    background-color: #ddd;
+}
+
+.specs-con .section .desc {
+    font-size: .83333rem;
+    line-height: 2.08333rem;
+    color: #000;
+    margin-top: 3.125rem;
+    font-family: CamphorPro;
+}
+
+.specs-con .section .title {
+    font-size: 1.45833rem;
+    line-height: 1.70833rem;
+    color: #000;
+    margin-top: 1.4375rem;
+    font-family: CamphorPro;
+}
+
+.specs-con .section .feature {
+    font-size: .75rem;
+    line-height: 1.25rem;
+    color: #000;
+    margin-top: 1.4375rem;
+    font-family: CamphorProThin;
+}
